@@ -1,7 +1,7 @@
 package com.sheiko;
 
-public class GitTest {
+public class Requirements {
     public static void main(String[] args) {
-        System.out.println("Hello Git");
+
     }
 }
