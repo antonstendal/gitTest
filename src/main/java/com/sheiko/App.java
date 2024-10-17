@@ -6,4 +6,10 @@ public class App {
         System.out.println("Enter password");
         System.out.println("Click the button 'LogIn'");
     }
+
+    private void LogInWithGoogle() {
+        System.out.println("Enter name Google");
+        System.out.println("Enter password");
+        System.out.println("Click the button 'LogIn'");
+    }
 }
